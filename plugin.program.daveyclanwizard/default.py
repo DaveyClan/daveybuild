@@ -4,7 +4,7 @@ from urllib.request import urlretrieve
 ADDON_NAME = "Davey Clan Wizard"
 
 # Build ZIP URL inside repo
-BUILD_URL = "https://github.com/DaveyClan/Davey-clan.github.io/releases/download/build/Daveyclan.zip"
+BUILD_URL = "https://github.com/DaveyClan/Daveybuild/releases/download/build/Daveyclan.zip"
 
 TEMP_ZIP = "special://home/temp/daveyclan_build.zip"
 KODI_HOME = "special://home/"
